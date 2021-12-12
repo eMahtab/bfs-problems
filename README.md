@@ -15,3 +15,7 @@
 6. Shortest path to get food https://leetcode.com/problems/shortest-path-to-get-food
 
 7. Minimum Knight Moves https://leetcode.com/problems/minimum-knight-moves
+
+8. Bus Routes https://leetcode.com/problems/bus-routes
+
+
